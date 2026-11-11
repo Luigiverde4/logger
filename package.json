@@ -1,5 +1,5 @@
 {
-  "name": "pr2",
+  "name": "logger-luigiverde4",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
@@ -10,13 +10,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Luigiverde4/pr2.git"
+    "url": "git+https://github.com/Luigiverde4/logger.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Luigiverde4/pr2/issues"
+    "url": "https://github.com/Luigiverde4/logger/issues"
   },
-  "homepage": "https://github.com/Luigiverde4/pr2#readme"
+  "homepage": "https://github.com/Luigiverde4/logger#readme"
 }
