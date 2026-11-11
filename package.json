@@ -18,8 +18,5 @@
   "bugs": {
     "url": "https://github.com/Luigiverde4/logger/issues"
   },
-  "homepage": "https://github.com/Luigiverde4/logger#readme",
-  "dependencies": {
-    "logger-luigiverde4": "^1.0.1"
-  }
+  "homepage": "https://github.com/Luigiverde4/logger#readme"
 }
