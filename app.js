@@ -1,4 +1,4 @@
-import * as logger from "logger-luigiverde4"
+import * as logger from "./index.mjs"
 
 
 logger.info("Aplicacion iniciada")

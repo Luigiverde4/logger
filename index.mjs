@@ -1,12 +1,14 @@
+import chalk from "chalk"
+
 export function info(msg) {
-    console.log("[INFO] ", msg)
+    console.log(chalk.green("[INFO] ") + msg)
 }
 export function warn(msg) {
-    console.log("[WARN] ", msg)
+    console.log(chalk.yellow("[WARN] "), msg)
 }
 export function error(msg) {
-    console.log("[ERROR] ", msg)
+    console.log(chalk.red("[ERROR] "), msg)
 }
 export function debug(msg) {
-    console.log("[DEBUG] ", msg)
+    console.log(chalk.blue("[DEBUG] "), msg)
 }

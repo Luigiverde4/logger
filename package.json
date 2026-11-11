@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Luigiverde4/logger/issues"
   },
-  "homepage": "https://github.com/Luigiverde4/logger#readme"
+  "homepage": "https://github.com/Luigiverde4/logger#readme",
+  "dependencies": {
+    "chalk": "^6.0.1"
+  }
 }
